@@ -15,8 +15,8 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h>
 <p align="left">
-<a href="https://x.com/Tech_Lioness" target="blank"><img align="center" src="https://raw.githubuser>
-<a href="https://instagram.com/gospearl" target="blank"><img align="center" src="https://raw.github>
-</p
+<a href="https://x.com/Tech_Lioness" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Tech_Lioness" height="30" width="40" /></a>
+<a href="https://instagram.com/gospearl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gospearl" height="30" width="40" /></a>
+</p>

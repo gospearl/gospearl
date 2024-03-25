@@ -3,7 +3,7 @@
 
 - 🔭 I’m in a **competition with the gospearl of yesterday. My goal is to be better than i was 24 hours ago**
 
-- 🌱 I’m currently a  **Cybersecurity Analysyt-in-Training**
+- 🌱 I’m currently a  **Cybersecurity Analyst-in-Training**
 
 - 🌱 I have an  **interest in Ethical hacking**
 
